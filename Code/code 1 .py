@@ -1,7 +1,7 @@
 print("my name is mostafa ")
-print("my id is 12345")
+print("my id is 41910236")
 print("my hight is 1223")
 
-print("my age is 12")
+print("my age is 22")
 print("hello world ")
 
