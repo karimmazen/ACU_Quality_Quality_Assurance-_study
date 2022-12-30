@@ -6,3 +6,4 @@ print("my age is 22")
 print("hello world ")
 
 print("Age")
+print("f")
